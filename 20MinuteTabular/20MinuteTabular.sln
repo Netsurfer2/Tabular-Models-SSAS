@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6870E480-7721-4708-BFB8-9AE898AA21B3}") = "20MinuteTabular", "20MinuteTabular\20MinuteTabular.smproj", "{8CE414BB-95B2-4C99-9E03-51BA72086E22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL Scripts", "SQL Scripts", "{8974C089-75E5-491F-9DCD-B2F12733CEF3}"
+	ProjectSection(SolutionItems) = preProject
+		SQL Scripts\SQLScript-Views.sql = SQL Scripts\SQLScript-Views.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Excel Pivot Table", "Excel Pivot Table", "{78C3947B-4465-4B21-9D2A-CF1BD6A7D811}"
+	ProjectSection(SolutionItems) = preProject
+		Excel Pivot Table\ExcelPivotTable.xlsx = Excel Pivot Table\ExcelPivotTable.xlsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tutorial Instructions", "Tutorial Instructions", "{29D1FA15-59CB-45F4-B477-B7E4A57FE322}"
+	ProjectSection(SolutionItems) = preProject
+		Tutorial Instructions\20MinuteTabular.docx = Tutorial Instructions\20MinuteTabular.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|x86 = Development|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.ActiveCfg = Development|x86
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.Build.0 = Development|x86
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.Deploy.0 = Development|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
