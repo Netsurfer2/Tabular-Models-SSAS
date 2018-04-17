@@ -1,0 +1,15 @@
+Locations table:
+=LOOKUPVALUE(Countries[CountryName],[CountryCode],[CountryCode])
+
+Machines table:
+=LOOKUPVALUE(Locations[LocationName],[LocationCode],[LocationCode])
+
+=LOOKUPVALUE(Locations[CountryName],[LocationCode],[LocationCode])
+
+ProductSubtypes:
+=RELATED(ProductTypes[ProductTypeName])
+
+Products:
+=RELATED(ProductSubtypes[ProductSubtypeName])
+
+=RELATED(ProductSubtypes[ProductTypeName])

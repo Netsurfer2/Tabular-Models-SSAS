@@ -1,0 +1,6 @@
+C:\_BISolutions\Module07\Submitted\20MinuteTabular\20MinuteTabular\bin\20MinuteTabularModel.asdatabase
+C:\_BISolutions\Module07\Submitted\20MinuteTabular\20MinuteTabular\bin\20MinuteTabularModel.deploymenttargets
+C:\_BISolutions\Module07\Submitted\20MinuteTabular\20MinuteTabular\bin\20MinuteTabularModel.deploymentoptions
+C:\_BISolutions\Module07\Submitted\20MinuteTabular\20MinuteTabular\obj\Development\20MinuteTabularModel.asdatabase
+C:\_BISolutions\Module07\Submitted\20MinuteTabular\20MinuteTabular\obj\Development\20MinuteTabularModel.deploymentoptions
+C:\_BISolutions\Module07\Submitted\20MinuteTabular\20MinuteTabular\obj\Development\20MinuteTabularModel.deploymenttargets
